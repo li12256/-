@@ -174,10 +174,13 @@ body {
   margin-top: 4px;
 }
 body {
-  background-image: url(beijing6.ac86f149.jpg);
+  background-image: url(tupian2.37f657e5.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 html.bdy {
   width: 100%;
+}
+img {
+  max-width: 100%;
 }
