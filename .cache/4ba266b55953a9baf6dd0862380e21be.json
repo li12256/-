@@ -1,1 +1,1 @@
-{"id":"images\\tupian.jpg","dependencies":[],"generated":{"js":"module.exports = \"/a80b127db39d6d6ae59d85a3b64162fa.jpg\";"},"hash":"984c060aed8b9f69bc2564a9e30d8e42","cacheData":{"env":{}}}
+{"id":"images\\tupian.jpg","dependencies":[{"name":"C:\\Users\\小啊giao\\Desktop\\前端导航\\package.json","includedInParent":true,"mtime":1623860314399}],"generated":{"js":"module.exports = \"/a80b127db39d6d6ae59d85a3b64162fa.jpg\";"},"hash":"c91d574034685718524eaccbdafe014d","cacheData":{"env":{}}}
